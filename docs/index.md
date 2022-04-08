@@ -5,7 +5,12 @@
 layout: home
 ---
 
-This is the home page of my website
+<h2>Background</h2>
+
+<p> My insterests include </p>
+
+<h2>Data Projects</h2>
+
 
 <a href="https://github.com/leoncw/">Github Page</a>
 
