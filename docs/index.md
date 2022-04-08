@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-theme: Slate
+theme: Merlot
 ---
 
 <h2>Background</h2>
