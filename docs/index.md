@@ -6,7 +6,7 @@ layout: default
 theme: Slate
 ---
 
-<h2 style="color:blue;">Bit About Me</h2>
+<h2>Bit About Me</h2>
 
 <div style="width: 100%; overflow: hidden;">
  <div style="width: 70%; float: left;">
