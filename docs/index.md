@@ -18,7 +18,7 @@ theme: Slate
  </div>
 </div>
 
-<h2 style="color: blue;">Projects</h2>
+<h2 style="color: red;">Projects</h2>
 
  <ul>
   <!-- Renewable Energy Prediction Project -->
