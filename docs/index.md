@@ -14,7 +14,7 @@ theme: Slate
  </div>
 
  <div style="margin-left: 70%; border-radius: 75%; overflow: hidden; position: relative;">
-  <img src="Callum_Observatory.jpg" alt="Callum Weinberg" style="width: auto;height:256px; display: inline; margin: 0 auto;">
+  <img src="Callum_Observatory.jpg" alt="Callum Weinberg" style="width: auto;height:256px; display: inline; margin-left: 25%;">
  </div>
 </div>
 
