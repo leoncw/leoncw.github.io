@@ -10,7 +10,7 @@ theme: Slate
 
 <div style="width: 100%;">
  
- <div style="widtht: 30%; float: left;">
+ <div style="width: 30%; float: left;">
   <img src="Callum_Observatory.jpg" alt="Callum Weinberg" style="width: auto;height:256px; object-fit: cover; border-radius: 50%;">
  </div>
  
