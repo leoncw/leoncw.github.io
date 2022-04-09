@@ -13,7 +13,7 @@ theme: Slate
   <p> I'm currently a master's student of Statistics and Applied Probability at the University of California Santa Barbara (Graduating Spring '22). I lean  towards applied statistics and data science, but have done some more theoretical coursework as well. I like working with environmental, ecological, and economic data. Prior to graduate school, I worked for four years as an analyst in private sector antritrust economics. My primary undergraduate degree from the University of Virginia (BS, '16) is in <a href = "https://engineering.virginia.edu/departments/engineering-systems-and-environment/systems-engineering">Systems Engineering</a>. I also earned a second undergraduate degree in Economics (BA, '16).</p>
  </div>
 
- <div style="margin-left: 70%; border-radius: 50%; overflow: hidden;">
+ <div style="margin-left: 70%; border-radius: 75%; overflow: hidden;">
   <img src="Callum_Observatory.jpg" alt="Callum Weinberg" style="width: auto;height:256px; display: inline; margin: 0 auto;">
  </div>
 </div>
