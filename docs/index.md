@@ -5,12 +5,6 @@
 layout: default
 theme: Slate
 ---
-<!-- Some CSS for left-right blocking -->
-<style type="text/css">
-    #element1 {display:inline-block;margin-right:10px;}
-    #element2 {display:inline-block;} 
-</style>
-
 
 <h2 style="color:blue;">Bit About Me</h2>
 
