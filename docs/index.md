@@ -26,10 +26,10 @@ theme: Slate
   <!-- Renewable Energy Prediction Project -->
   <li><a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">Applying PCA and Kernel PCA to Los Angeles Ozone and CO2 Emissions Data</a>
    <ul>
-    <li> FILL THIS IN <\li>
-    <li> Completed for final project in PSTAT 262 (Feature Extraction) at UCSB (spring quarter 2022). The project code, materials, and information on the data can be found on my gihub page here <a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">(Direct link to Project Github Page)</a> <\li>
-   <\ul>
-  <\li>
+    <li> FILL THIS IN </li>
+    <li> Completed for final project in PSTAT 262 (Feature Extraction) at UCSB (spring quarter 2022). The project code, materials, and information on the data can be found on my gihub page here <a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">(Direct link to Project Github Page)</a> </li>
+   </ul>
+  </li>
 
   <!-- Renewable Energy Prediction Project -->
   <li><a href="https://leoncw.github.io/PSTAT231_Final/Final_Project_html_Broderick_Weinberg.html" target="_blank">Predicting Countries' Renewable Energy Percentage with Environmental Indicators</a>
