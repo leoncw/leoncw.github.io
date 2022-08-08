@@ -24,7 +24,7 @@ theme: Slate
  <ul>
  
   <!-- Renewable Energy Prediction Project -->
-  <li><a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">Applying PCA and Kernel PCA to Los Angeles Ozone and CO2 Emissions Data</a>
+  <li><a href="https://leoncw.github.io/CO2-Analysis-with-PCA-and-KPCA/PSTAT_262_FE_Final_Callum_Weinberg_Report.pdf" target="_blank">Applying PCA and Kernel PCA to Los Angeles Ozone and CO2 Emissions Data</a>
    <ul>
     <li> FILL THIS IN </li>
     <li> Completed for final project in PSTAT 262 (Feature Extraction) at UCSB (spring quarter 2022). The project code, materials, and information on the data can be found on my gihub page here <a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">(Direct link to Project Github Page)</a> </li>
