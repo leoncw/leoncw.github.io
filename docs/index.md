@@ -6,7 +6,7 @@ layout: default
 theme: Slate
 ---
 
-<h2>Bit About Me</h2>
+<h2>A Bit About Me</h2>
 
 <div style="width: 100%;">
  
@@ -15,7 +15,7 @@ theme: Slate
  </div>
  
  <div style="margin-left: 35%;">
-  <p> I'm currently a master's student of Statistics and Applied Probability at the University of California Santa Barbara (Graduating Spring '22). I lean  towards applied statistics and data science, but have taken some more theoretical coursework as well. I like applying statistical inferential and statistical models to environmental, ecological, and economic data. I also have significant experience with data cleaning, data management, and statistical programming (R, Python, Stata, SAS, Excel). Prior to graduate school, I worked for four years as an analyst in private sector antritrust economics. My primary undergraduate degree from the University of Virginia (BS, '16) is in <a href = "https://engineering.virginia.edu/departments/engineering-systems-and-environment/systems-engineering" target="_blank">Systems Engineering</a>. I also earned a second undergraduate degree in Economics (BA, '16).</p>
+  <p> I recently earned my master's student of Statistics and Applied Probability at the University of California Santa Barbara (Graduated June '22). I lean  towards applied statistics and data science, but have taken some more theoretical coursework as well. I like applying statistical inferential and statistical models to environmental, ecological, and economic data. I also have significant experience with data cleaning, data management, and statistical programming (R, Python, Stata, SAS, Excel). Prior to graduate school, I worked for four years as an analyst in private sector antritrust economics. My primary undergraduate degree from the University of Virginia (BS, '16) is in <a href = "https://engineering.virginia.edu/departments/engineering-systems-and-environment/systems-engineering" target="_blank">Systems Engineering</a>. I also earned a second undergraduate degree in Economics (BA, '16).</p>
  </div>
 
 </div>
@@ -24,12 +24,24 @@ theme: Slate
 
  <ul>
   <!-- Renewable Energy Prediction Project -->
+  <li> Applying PCA and Kernel PCA to Los Angeles Ozone and CO2 Emissions Data
+   <ul>
+    <li> FILL THIS IN <\li>
+    <li> Completed for final project in PSTAT 262 (Feature Extraction) at UCSB (spring quarter 2022). The project code, materials, and information on the data can be found on my gihub page here <a href="https://github.com/leoncw/CO2-Analysis-with-PCA-and-KPCA" target="_blank">(Direct link to Project Github Page)</a> <\li>
+   <\ul>
+  <\li>
+ 
+ 
+
+ <ul>
+  <!-- Renewable Energy Prediction Project -->
   <li><a href="https://leoncw.github.io/PSTAT231_Final/Final_Project_html_Broderick_Weinberg.html" target="_blank">Predicting Countries' Renewable Energy Percentage with Environmental Indicators</a>
     <ul>
       <li>Using a series of environmental indicator variables, can we predict the proportion of a country's electricity generation that came from renewable sources in 2017? This project focuses on exploring various statistical learning methods for predicting a continuous response, with an emphasis on sparse methods and implementing cross-validation minimize prediction error.</li>
-      <li>Completed as part of PSTAT 231 course credit at UCSB. Two person project with Hailey Broderick, the project was completed via Github <a href="https://github.com/leoncw/PSTAT231_Final" target="_blank">(Direct link to Project Github Page)</a>.</li>
+      <li>Completed for PSTAT 231 course credit at UCSB. Two person project with Hailey Broderick, the project was completed via Github <a href="https://github.com/leoncw/PSTAT231_Final" target="_blank">(Direct link to Project Github Page)</a>.</li>
     </ul>  
   </li>
+ 
   <!-- Covid 19 Vaccination California Project -->
   <li><a href="https://leoncw.github.io/California-Covid-19-Vaccine-Analysis/220C_Final_Project%20Callum%20Weinberg.pdf" target="_blank">An Inferential Analysis of California's Covid 19 Vaccine Uptake, One Month After Open Access</a>
     <ul>
