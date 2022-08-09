@@ -42,7 +42,7 @@ theme: Slate
   <!-- Covid 19 Vaccination California Project -->
   <li><a href="https://leoncw.github.io/California-Covid-19-Vaccine-Analysis/220C_Final_Project%20Callum%20Weinberg.pdf" target="_blank">An Inferential Analysis of California's Covid 19 Vaccine Uptake, One Month After Open Access</a>
     <ul>
-      <li>In the spring of 2021, there was a number of studies analyzing vaccine uptake and demographics at the country and state level, but less so at more granular geographic areas. This report performs an inferential analysis of vaccine uptake in California a month after open access, with observations being tabulated at the Zip Code Tabulation Area geographic level. A count regression approach (Poisson regression) is used to model vaccine uptake with demographic variables as covariates. </li>
+      <li>In the spring of 2021, there were a number of studies analyzing vaccine uptake and demographics at the country and state level, but less so at more granular geographic areas. This report performs an inferential analysis of vaccine uptake in California a month after open access, with observations being tabulated at the Zip Code Tabulation Area geographic level. A count regression approach (Poisson regression) is used to model vaccine uptake with demographic variables as covariates. </li>
       <li>Completed as part of PSTAT 220C course credit at UCSB <a href="https://github.com/leoncw/California-Covid-19-Vaccine-Analysis" target="_blank">(Direct link to Project Github Page)</a>.</li>
     </ul>  
   </li>
