@@ -42,7 +42,7 @@ theme: Slate
  <!-- Red Sea Urchin Forecasting Project -->
   <li><a href="https://leoncw.github.io/Red-Sea-Urchin-Landings-TS/Callum%20Weinberg%20-%20PSTAT%20274%20final%20project%20-%20Jan%202023%20Edit.pdf" target="_blank">Forecasting Santa Barbara Red Sea Urchin Landings</a>
     <ul>
-      <li>Red sea urchins are an important fishery species in the Santa Barbara region. Unfortunately, their populations are on the decline, as well as landings of Red Sea Urchins. This project explores the potential of time-series forecasting of 2019 red sea urchin landing using a SARIMA model, with 2008 through 2018 as the training period. The findings suggest red sea urchin landings can be modeled with a SARIMA model and forecasted accurately.</li>
+      <li>Red sea urchins are an important fishery species in the Santa Barbara region. Unfortunately, their populations are on the decline, as well as landings of red sea urchins. This project explores the potential of time-series forecasting of 2019 red sea urchin landing using a SARIMA model, with 2008 through 2018 as the training period. The findings suggest red sea urchin landings can be modeled with a SARIMA model and forecasted accurately.</li>
       <li>Completed for PSTAT 174/274 course credit at UCSB. The project code and data are available on my Github page Github <a href="https://github.com/leoncw/Red-Sea-Urchin-Landings-TS">(Direct link to Project Github Page)</a>.</li>
     </ul>  
   </li>
