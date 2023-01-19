@@ -23,7 +23,7 @@ theme: Slate
 <h2 style="color: black;">Projects</h2>
  <ul>
  
-  <!-- Renewable Energy Prediction Project -->
+  <!-- PCA and KPCA Project -->
   <li><a href="https://leoncw.github.io/CO2-Analysis-with-PCA-and-KPCA/PSTAT_262_FE_Final_Callum_Weinberg_Report.pdf" target="_blank">Applying PCA and Kernel PCA to Los Angeles Ozone and CO2 Emissions Data</a>
    <ul>
     <li> This project was inspired by work from Mark Jacobson, <a href="https://web.stanford.edu/group/efmh/jacobson/Articles/V/es903018m.pdf" target="_blank">which studied the effect of CO2 domes on local air polution</a>. I look for a relationship between CO2 and Ozone levels in Los Angeles from a week in March, 2014. To do so, I implemented Principal Component Analysis and Kernel Principal Component Analysis (KPCR) to study the correlation structure of the CO2 time series data. I then related the CO2 data to the Ozone data with Principal Component Regression (PCR) and Kernel Principal Component Regression (KPCR). Both PCR and KPCR were successful in modeling the apparent correlation between Ozone and CO2. I examine the following kernels: radial basis function, rational quadratic function, and periodic. My report also explores the computational aspects of implementing KPCA and KPCR.</li>
@@ -36,6 +36,14 @@ theme: Slate
     <ul>
       <li>Using a series of environmental indicator variables, can we predict the proportion of a country's electricity generation that came from renewable sources in 2017? This project focuses on exploring various statistical learning methods for predicting a continuous response, with an emphasis on sparse methods and implementing cross-validation minimize prediction error.</li>
       <li>Completed for PSTAT 231 course credit at UCSB. Two person project with Hailey Broderick, the project was completed via Github <a href="https://github.com/leoncw/PSTAT231_Final" target="_blank">(Direct link to Project Github Page)</a>.</li>
+    </ul>  
+  </li>
+ 
+ <!-- Red Sea Urchin Forecasting Project -->
+  <li><a href="https://leoncw.github.io/Red-Sea-Urchin-Landings-TS/Callum%20Weinberg%20-%20PSTAT%20274%20final%20project%20-%20Jan%202023%20Edit.pdf" target="_blank">Forecasting Santa Barbara Red Sea Urchin Landings</a>
+    <ul>
+      <li>Red sea urchins are an important fishery species in the Santa Barbara region. Unfortunately, their populations are on the decline, as well as landings of Red Sea Urchins. This project explores the potential of time-series forecasting of 2019 red sea urchin landing using a SARIMA model, with 2008 through 2018 as the training period. The findings suggest red sea urchin landings can be modeled with a SARIMA model and forecasted accurately.</li>
+      <li>Completed for PSTAT 174/274 course credit at UCSB. The project code and data are available on my Github page Github <a href="https://github.com/leoncw/Red-Sea-Urchin-Landings-TS">(Direct link to Project Github Page)</a>.</li>
     </ul>  
   </li>
  
